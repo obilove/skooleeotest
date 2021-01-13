@@ -1,0 +1,24 @@
+.btnbtn {
+    background-color: rgb(69, 15, 155) !important;
+    border-radius: 20px;
+    color: white;
+}
+
+.btnbt {
+    border: 1px solid blue !important;
+    background-color: white !important;
+    color: blue;
+    margin-left: 22rem !important;
+}
+
+.btnbt:hover {
+    border: 1px solid blue !important;
+    background-color: white !important;
+    color: blue;
+    margin-left: 22rem !important;
+}
+
+.btnb {
+    margin-left: 8rem !important;
+    width: 8rem !important;
+}
